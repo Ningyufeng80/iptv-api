@@ -12,3 +12,4 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3uhttps://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
 https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
 https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/Ningyufeng80/Ningyufeng80.github.io/refs/heads/main/list.txt
